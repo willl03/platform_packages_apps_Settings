@@ -216,7 +216,8 @@
     <string name="volume_keys_control_media_stream_title">Volume keys control media volume</string>
     <string name="volume_keys_control_media_stream_summary">Force volume keys to control media stream</string>
 
-    <string name="statusbar_items_category">Statusbar items</string>
+    <!-- Name of special SystemUI debug settings -->
+    <string name="system_ui_tuner">System UI Tuner</string>
 
     <!-- Option to show brightness bar in quick settings -->
     <string name="show_brightness">Show brightness slider</string>
