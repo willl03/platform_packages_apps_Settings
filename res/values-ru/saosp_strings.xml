@@ -303,6 +303,8 @@
     <string name="led_notification_title">Индикатор событий</string>
     <string name="led_notification_text">Светодиод включен в настройках</string>
     <string name="notification_light_no_apps_summary">Чтобы разрешить управление приложениями, включите \'%1$s\' и нажмите \'\u002b\' в строке меню.</string>
+    <string name="notification_light_automagic">Автоподбор</string>
+    <string name="notification_light_automagic_summary">Подбирать цвета автоматически, если пользователем не выбрано свое значение</string>
     <string name="font_sample_text">11:57</string>
     <!-- Add application dialog box title -->
     <string name="profile_choose_app">Выбрать приложение</string>
