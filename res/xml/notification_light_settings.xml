@@ -23,7 +23,8 @@
 
         <com.android.settings.cyanogenmod.SystemSettingSwitchPreference
             android:key="notification_light_pulse"
-            android:title="@string/notification_light_title" />
+            android:title="@string/notification_light_title"
+            android:defaultValue="true" />
 
         <com.android.settings.batterylight.NotificationLightPreference
             android:key="default"
