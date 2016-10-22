@@ -77,11 +77,6 @@ public class FlingSettings extends ActionFragment implements
         super.onCreate(savedInstanceState);
         addPreferencesFromResource(R.xml.fling_settings);
 
-        ActionBar bar = getActivity().getActionBar();
-        if (bar != null) {
-            bar.setTitle(R.string.fling_interface);
-        }
-
         mContext = (Context) getActivity();
         mIconPickHelper = new IconPickHelper(getActivity(), this);
 
@@ -346,6 +341,7 @@ public class FlingSettings extends ActionFragment implements
 
     @Override
     protected int getMetricsCategory() {
-        return MetricsEvent.SAOSP_TWEAKS;
+        return MetricsEvent.PURE_SETTINGS;
     }
 }
+
