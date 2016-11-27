@@ -176,9 +176,6 @@
     <!-- Name of special SystemUI debug settings -->
     <string name="system_ui_tuner">System UI Tuner</string>
 
-    <!-- Option to show brightness bar in quick settings -->
-    <string name="show_brightness">Cлайдер яркости</string>
-     
     <!-- Statusbar Clock options -->
     <string name="status_bar_title">Строка состояния</string>
     <string name="status_bar_style_title">Стиль часов и даты</string>
@@ -421,4 +418,17 @@
     <string name="dashboard_conditions_title">Уведомления в главном меню</string>
     <string name="summary_dashboard_conditions_enabled">Уведомления в главном меню включены</string>
     <string name="summary_dashboard_conditions_disabled">Уведомления в главном меню выключены</string>
+     
+    <!-- Kill app long-press back -->
+    <string name="kill_app_longpress_back">Закрытие приложения</string>
+    <string name="kill_app_longpress_back_summary">Завершать работу текущего приложения удерживанием кнопки «Назад»</string>
+    <!--Back to kill timeout -->
+    <string name="long_press_kill_delay">Задержка закрытия</string>
+     
+    <!-- Quick Settings brightness slider -->
+    <string name="qs_brightness_slider_title">Cлайдер яркости</string>
+    <string name="qs_brightness_slider_summary">Показывать слайдер яркости в быстрых настройках</string>
+ 
+    <string name="brightness_icon_title">Значок яркости</string>
+    <string name="brightness_icon_summary">Значок слева от слайдера яркости регулирует автоматическую подстройку яркости</string>
 </resources>
