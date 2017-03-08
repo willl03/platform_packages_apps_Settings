@@ -541,7 +541,7 @@
 
     <!-- Fingerprint unlock keystore -->
     <string name="fingerprint_category">Fingerprint settings</string>
-    <string name="fp_unlock_keystore_title">FP unlock</string>
+    <string name="fp_unlock_keystore_title">Fingerprint unlock</string>
     <string name="fp_unlock_keystore_summary">Unlock device with fingerprint after reboot without PIN/Password/Pattern\nNote: at your own risk!</string>
 
     <!-- SuperSU dashboard summary -->
@@ -643,7 +643,7 @@
 
     <!-- DND toggle during call -->
     <string name="dnd_when_call_title">DND mode during calls</string>
-    <string name="dnd_when_call_summary">Enable Do not Disturb when call active</string>
+    <string name="dnd_when_call_summary">Enable Do not disturb mode when call active</string>
 
    <!-- Force authorize substratum packages -->
    <string name="force_authorize_substratum_packages_title">Force authorize every theme app</string>
